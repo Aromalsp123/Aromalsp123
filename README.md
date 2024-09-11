@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+[![Aromal.sp GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Aromalsp123&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/Aromalsp123/github-readme-stats#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aromalsp123&theme=whatsapp-light&hide_border=true)](https://git.io/streak-stats)
