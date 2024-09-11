@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Aromal.sp GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Aromalsp123&show_icons=true&theme=default#gh-light-mode-only)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aromalsp123&theme=whatsapp-light&hide_border=true)](https://git.io/streak-stats)
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats.vercel.app/api?username=Aromalsp123&show_icons=true&theme=dark"
+    media="(prefers-color-scheme:ambient_gradient)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=Aromalsp&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Aromalsp123&show_icons=true" />
 </picture>
