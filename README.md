@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=Aromalsp&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: ambient_gradient )"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=Aromalsp123&show_icons=true" />
 </picture>
