@@ -1,7 +1,7 @@
 
 
 
-**Aromalsp123/Aromalsp123**<!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<!--**Aromalsp123/Aromalsp123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ## ABOUT ME :
  ## Hi there , I am Aromal.sp
 
