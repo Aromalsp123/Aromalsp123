@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Aromalsp123&theme=whatsapp-light&hide_border=true)]
 
-![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aromalsp123&theme=dracula)](https://github.com/Aromalsp123/github-readme-activity-graph)
+![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aromalsp123&theme=dracula)]
+
