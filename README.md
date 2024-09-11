@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aromalsp123&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Aromalsp123&theme=youtube-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aromalsp123&theme=meta-light&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aromalsp123&theme=whatsapp-light&hide_border=true)](https://git.io/streak-stats)
